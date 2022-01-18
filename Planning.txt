@@ -1,0 +1,2 @@
+Penjelasan apa apa itu Google Eart Engine
+Script beberapa pengolahan menggunakan GEE
